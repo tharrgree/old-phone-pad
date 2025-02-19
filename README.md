@@ -23,12 +23,12 @@ The input string represents a sequence of key presses:
 -   The `*` character is ignored.
 
 ### Example Usage
-Console.WriteLine(OldPhonePad("33#"));                // Output: E
-Console.WriteLine(OldPhonePad("227*#"));              // Output: B
-Console.WriteLine(OldPhonePad("4433555 555666#"));     // Output: HELLO
-Console.WriteLine(OldPhonePad("8 88777444666*664#"));  // Output: TURING
-Console.WriteLine(OldPhonePad("55 555*5#"));          // Output: KJ
-Console.WriteLine(OldPhonePad("222 2 22#"));          // Output: CAB
+-   Console.WriteLine(OldPhonePad("33#"));                // Output: E
+-   Console.WriteLine(OldPhonePad("227*#"));              // Output: B
+-   Console.WriteLine(OldPhonePad("4433555 555666#"));     // Output: HELLO
+-   Console.WriteLine(OldPhonePad("8 88777444666*664#"));  // Output: TURING
+-   Console.WriteLine(OldPhonePad("55 555*5#"));          // Output: KJ
+-   Console.WriteLine(OldPhonePad("222 2 22#"));          // Output: CAB
 
 ### Edge Cases
 
